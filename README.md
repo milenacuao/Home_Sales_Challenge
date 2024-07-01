@@ -14,12 +14,15 @@ overview
 ![image](https://github.com/milenacuao/Home_Sales_Challenge/assets/151895571/3106a2f4-03c2-4725-bd31-58301fd15140)
 
 4.What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query?
+
 ![image](https://github.com/milenacuao/Home_Sales_Challenge/assets/151895571/8a5d320d-1f52-4f26-b49a-0e804a7a7cd0)
 
 5.Using the cached data, run the query that filters out the view ratings with an average price of greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime. Partition by the "date_built" field on the formatted parquet home sales data.
+
 ![image](https://github.com/milenacuao/Home_Sales_Challenge/assets/151895571/2091d0ca-c737-4d97-8d25-5a3e0b6abcdd)
 
 6.Parquet formatted data
+
 ![image](https://github.com/milenacuao/Home_Sales_Challenge/assets/151895571/bccbd9d1-4a8a-4fd1-8a8a-cf5209087d23)
 
 
